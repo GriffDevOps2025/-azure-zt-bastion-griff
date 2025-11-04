@@ -61,29 +61,7 @@ Production-grade Infrastructure as Code implementation of zero-trust network arc
 
 ---
 
-## 📸 Implementation Evidence
 
-### Configuration Management
-![Terraform Configuration](docs/screenshot-config.png)
-*Infrastructure variables and resource tagging strategy*
-
-### Provider Initialization
-![Terraform Init](docs/screenshot-init.png)
-*Azure provider setup with version locking*
-
-### Code Validation
-![Terraform Validate](docs/screenshot-validate.png)
-*Syntax and logic validation*
-
-### Deployment Planning
-![Terraform Plan](docs/screenshot-plan.png)
-*11 resource deployment plan with dependency graph*
-
-### Infrastructure Provisioning
-![Terraform Apply](docs/screenshot-apply.png)
-*Live deployment with Bastion host provisioning*
-
----
 
 ## 🚀 Deployment
 
